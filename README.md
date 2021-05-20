@@ -1,2 +1,2 @@
 # zpath.org
-Landing Page for the ZPath Project
+Landing Page for the ZPath homepage
